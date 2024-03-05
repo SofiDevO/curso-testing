@@ -24,7 +24,7 @@ const Cuenta = ({ saldo, realizarTransaccion }) => {
       <h2>Cuenta</h2>
       <p>
         Saldo:
-        <strong data-testid="saldo-cuenta">{` $${saldo}`}</strong>
+        <strong data-testid="saldo-cuenta">{`$${saldo}`}</strong>
       </p>
       <form onSubmit={handleSubmit}>
         <div>

@@ -14,6 +14,480 @@
       "valor": "200",
       "data": "25/09/2021",
       "id": 2
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "10",
+      "data": "29/2/2024",
+      "id": 3
+    },
+    {
+      "transaccion": "deposito",
+      "valor": "10",
+      "data": "29/2/2024",
+      "id": 4
+    },
+    {
+      "transaccion": "deposito",
+      "valor": "1000",
+      "data": "1/3/2024",
+      "id": 5
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "1000",
+      "data": "1/3/2024",
+      "id": 6
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "3/3/2024",
+      "id": 7
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "3/3/2024",
+      "id": 8
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "3/3/2024",
+      "id": 9
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "3/3/2024",
+      "id": 10
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 11
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 12
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 13
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 14
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 15
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 16
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 17
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 18
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 19
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 20
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 21
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 22
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 23
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 24
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 25
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 26
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 27
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 28
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 29
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 30
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 31
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 32
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 33
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 34
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 35
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 36
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 37
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 38
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 39
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 40
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 41
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 42
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 43
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 44
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 45
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 46
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 47
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 48
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 49
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 50
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 51
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 52
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 53
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 54
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 55
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 56
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 57
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 58
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 59
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 60
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 61
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 62
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 63
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 64
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 65
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 66
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 67
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 68
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 69
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 70
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 71
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 72
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 73
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 74
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 75
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 76
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 77
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 78
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 79
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 80
+    },
+    {
+      "transaccion": "retiro",
+      "valor": "100",
+      "data": "4/3/2024",
+      "id": 81
     }
   ]
 }
